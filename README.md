@@ -1,7 +1,10 @@
 # 💫About Me :
 🔭 I’m currently working on Flutter.
+
 🌱 I’m currently learning more about BlockChain.
+
 💬 Ask me about Flutter or any tech-related stuff.
+
 ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 ## 🌐Socials
