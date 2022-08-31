@@ -19,6 +19,11 @@ Hi, I'm Kamran Khan! 👋
 ![](https://github-readme-streak-stats.herokuapp.com/?user=3kdeveloper&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3kdeveloper&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/3kdeveloper/snake_eating_github_contribution_grid/blob/main/snake_eating_github-contribution-grid.svg" alt="snake"></center>
+</p>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
