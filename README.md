@@ -1,11 +1,15 @@
 # 💫About Me :
-Hi, I'm Kamran Khan! 👋
+<h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Kamran Khan. </h1>
+<h3 align="center">I am a software engineer & I am currently working on FLUTTER for building mobile applications.</h3>
+
 
 🔭 I’m currently working on Flutter.
 
 🌱 I’m currently learning more about BlockChain.
 
-💬 Ask me about Flutter or any tech-related stuff.
+💬 Ask me about Flutter.
+
+📫 How to reach me **kamranktk807@gmail.com**
 
 ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
