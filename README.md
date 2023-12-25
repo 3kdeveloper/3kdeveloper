@@ -5,13 +5,11 @@
 
 🔭 I’m currently working on Flutter.
 
-🌱 I’m currently learning more about BlockChain.
-
 💬 Ask me about Flutter.
 
 📫 How to reach me **kamranktk807@gmail.com**
 
-⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+📫 Whatsapp me **+923489394105**
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3kdeveloper/) 
